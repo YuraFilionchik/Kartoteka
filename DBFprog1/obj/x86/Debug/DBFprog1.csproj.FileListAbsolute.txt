@@ -1,0 +1,8 @@
+D:\Проекты\DBFprog1\DBFprog1\bin\x86\Debug\DBFprog1.exe.config
+D:\Проекты\DBFprog1\DBFprog1\bin\x86\Debug\DBFprog1.exe
+D:\Проекты\DBFprog1\DBFprog1\bin\x86\Debug\DBFprog1.pdb
+D:\Проекты\DBFprog1\DBFprog1\obj\x86\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+D:\Проекты\DBFprog1\DBFprog1\obj\x86\Debug\DBFprog1.MainForm.resources
+D:\Проекты\DBFprog1\DBFprog1\obj\x86\Debug\DBFprog1.csproj.GenerateResource.Cache
+D:\Проекты\DBFprog1\DBFprog1\obj\x86\Debug\DBFprog1.exe
+D:\Проекты\DBFprog1\DBFprog1\obj\x86\Debug\DBFprog1.pdb

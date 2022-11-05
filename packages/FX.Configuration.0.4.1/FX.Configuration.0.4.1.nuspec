@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FX.Configuration</id>
+    <version>0.4.1</version>
+    <authors>FriendlyX</authors>
+    <owners>FriendlyX</owners>
+    <licenseUrl>http://www.friendlyx.com/license.txt</licenseUrl>
+    <projectUrl>http://www.friendlyx.com/</projectUrl>
+    <iconUrl>http://www.friendlyx.com/images/fx-nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A lightweight, simple, flexible, extensible library to read configurations using strongly typed classes.
+	- you can use a standard way to read configuration from app.config or from a pure JSON configuration file.
+	- you can also use a mix of various configuration sources like app.config and config.json (look at the MixedConfiguration class sample)</description>
+    <summary>A lightweight, simple, flexible, extensible library to read configurations using strongly typed classes.
+	Supports various configuration sources (like app.config, config.json, etc.)</summary>
+    <copyright>Copyright © 2014 FriendlyX</copyright>
+    <language>en-US</language>
+    <tags>fx app web json configuration config</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="6.0.6" />
+    </dependencies>
+  </metadata>
+</package>

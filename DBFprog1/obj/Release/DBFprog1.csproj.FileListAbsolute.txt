@@ -1,0 +1,45 @@
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.About.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.Login.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.PassManager.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.InputForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.MainForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Result.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.TrassaForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.csproj.GenerateResource.Cache
+D:\картотека\DBFprog1\DBFprog1\bin\Release\Crypt.dll
+D:\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe.config
+D:\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe
+D:\картотека\DBFprog1\DBFprog1\obj\Release\Kartoteka2016.exe
+D:\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.csprojResolveAssemblyReference.cache
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe.config
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Release\Crypt.dll
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Release\DotNetZip.dll
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Release\DotNetZip.xml
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\ResolveAssemblyReference.cache
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.About.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.Login.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.PassManager.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.InputForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.MainForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Result.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.TrassaForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\GenerateResource.read.1.tlog
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\GenerateResource.write.1.tlog
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\Kartoteka2016.exe
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Release\GenerateResource.read.4.tlog
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe.config
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Release\Kartoteka2016.exe
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Release\Crypt.dll
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Release\DotNetZip.dll
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Release\DotNetZip.xml
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.csprojResolveAssemblyReference.cache
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.About.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.Login.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Authorize.PassManager.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.InputForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.MainForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.Result.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.TrassaForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\DBFprog1.csproj.GenerateResource.Cache
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Release\Kartoteka2016.exe

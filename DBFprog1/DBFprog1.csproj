@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{EC0788BE-765A-4039-942B-CFE1A302268F}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DBFprog1</RootNamespace>
+    <AssemblyName>Kartoteka2016</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>..\..\INFO\icon.ico</ApplicationIcon>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <CodeAnalysisRules>-Microsoft.Design#CA1000;-Microsoft.Design#CA1001;-Microsoft.Design#CA1002;-Microsoft.Design#CA1003;-Microsoft.Design#CA1004;-Microsoft.Design#CA1005;-Microsoft.Design#CA1006;-Microsoft.Design#CA1007;-Microsoft.Design#CA1008;-Microsoft.Design#CA1009;-Microsoft.Design#CA1010;-Microsoft.Design#CA1011;-Microsoft.Design#CA1012;-Microsoft.Design#CA1013;-Microsoft.Design#CA1014;-Microsoft.Design#CA1016;-Microsoft.Design#CA1017;-Microsoft.Design#CA1018;-Microsoft.Design#CA1019;-Microsoft.Design#CA1020;-Microsoft.Design#CA1021;-Microsoft.Design#CA1023;-Microsoft.Design#CA1024;-Microsoft.Design#CA1025;-Microsoft.Design#CA1026;-Microsoft.Design#CA1027;-Microsoft.Design#CA1028;-Microsoft.Design#CA1030;-Microsoft.Design#CA1031;-Microsoft.Design#CA1032;-Microsoft.Design#CA1033;-Microsoft.Design#CA1034;-Microsoft.Design#CA1035;-Microsoft.Design#CA1036;-Microsoft.Design#CA1038;-Microsoft.Design#CA1039;-Microsoft.Design#CA1040;-Microsoft.Design#CA1041;-Microsoft.Design#CA1043;-Microsoft.Design#CA1044;-Microsoft.Design#CA1045;-Microsoft.Design#CA1046;-Microsoft.Design#CA1047;-Microsoft.Design#CA1048;-Microsoft.Design#CA1049;-Microsoft.Design#CA1050;-Microsoft.Design#CA1051;-Microsoft.Design#CA1052;-Microsoft.Design#CA1053;-Microsoft.Design#CA1054;-Microsoft.Design#CA1055;-Microsoft.Design#CA1056;-Microsoft.Design#CA1057;-Microsoft.Design#CA1058;-Microsoft.Design#CA1059;-Microsoft.Design#CA1060;-Microsoft.Design#CA1061;-Microsoft.Design#CA1063;-Microsoft.Design#CA1064;-Microsoft.Design#CA1065;-Microsoft.Design#CA2210;-Microsoft.Globalization#CA1300;-Microsoft.Globalization#CA1301;-Microsoft.Globalization#CA1302;-Microsoft.Globalization#CA1304;-Microsoft.Globalization#CA1305;-Microsoft.Globalization#CA1306;-Microsoft.Globalization#CA1307;-Microsoft.Globalization#CA1308;-Microsoft.Globalization#CA1309;-Microsoft.Globalization#CA2101;-Microsoft.Interoperability#CA1400;-Microsoft.Interoperability#CA1401;-Microsoft.Interoperability#CA1402;-Microsoft.Interoperability#CA1403;-Microsoft.Interoperability#CA1404;-Microsoft.Interoperability#CA1405;-Microsoft.Interoperability#CA1406;-Microsoft.Interoperability#CA1407;-Microsoft.Interoperability#CA1408;-Microsoft.Interoperability#CA1409;-Microsoft.Interoperability#CA1410;-Microsoft.Interoperability#CA1411;-Microsoft.Interoperability#CA1412;-Microsoft.Interoperability#CA1413;-Microsoft.Interoperability#CA1414;-Microsoft.Interoperability#CA1415;-Microsoft.Mobility#CA1600;-Microsoft.Mobility#CA1601;-Microsoft.Naming#CA1700;-Microsoft.Naming#CA1701;-Microsoft.Naming#CA1702;-Microsoft.Naming#CA1703;-Microsoft.Naming#CA1704;-Microsoft.Naming#CA1707;-Microsoft.Naming#CA1708;-Microsoft.Naming#CA1709;-Microsoft.Naming#CA1710;-Microsoft.Naming#CA1711;-Microsoft.Naming#CA1712;-Microsoft.Naming#CA1713;-Microsoft.Naming#CA1714;-Microsoft.Naming#CA1715;-Microsoft.Naming#CA1716;-Microsoft.Naming#CA1717;-Microsoft.Naming#CA1719;-Microsoft.Naming#CA1720;-Microsoft.Naming#CA1721;-Microsoft.Naming#CA1722;-Microsoft.Naming#CA1724;-Microsoft.Naming#CA1725;-Microsoft.Naming#CA1726;-Microsoft.Performance#CA1800;-Microsoft.Performance#CA1802;-Microsoft.Performance#CA1804;-Microsoft.Performance#CA1809;-Microsoft.Performance#CA1810;-Microsoft.Performance#CA1811;-Microsoft.Performance#CA1812;-Microsoft.Performance#CA1813;-Microsoft.Performance#CA1814;-Microsoft.Performance#CA1815;-Microsoft.Performance#CA1819;-Microsoft.Performance#CA1820;-Microsoft.Performance#CA1821;-Microsoft.Performance#CA1822;-Microsoft.Performance#CA1823;-Microsoft.Performance#CA1824;-Microsoft.Portability#CA1900;-Microsoft.Portability#CA1901;-Microsoft.Portability#CA1903;-Microsoft.Security#CA2102;-Microsoft.Security#CA2103;-Microsoft.Security#CA2104;-Microsoft.Security#CA2105;-Microsoft.Security#CA2106;-Microsoft.Security#CA2107;-Microsoft.Security#CA2108;-Microsoft.Security#CA2109;-Microsoft.Security#CA2111;-Microsoft.Security#CA2112;-Microsoft.Security#CA2114;-Microsoft.Security#CA2115;-Microsoft.Security#CA2116;-Microsoft.Security#CA2117;-Microsoft.Security#CA2118;-Microsoft.Security#CA2119;-Microsoft.Security#CA2120;-Microsoft.Security#CA2121;-Microsoft.Security#CA2122;-Microsoft.Security#CA2123;-Microsoft.Security#CA2124;-Microsoft.Security#CA2126;-Microsoft.Security#CA2130;-Microsoft.Security#CA2131;-Microsoft.Security#CA2132;-Microsoft.Security#CA2133;-Microsoft.Security#CA2134;-Microsoft.Security#CA2135;-Microsoft.Security#CA2136;-Microsoft.Security#CA2137;-Microsoft.Security#CA2138;-Microsoft.Security#CA2139;-Microsoft.Security#CA2140;-Microsoft.Security#CA2141;-Microsoft.Security#CA2142;-Microsoft.Security#CA2143;-Microsoft.Security#CA2144;-Microsoft.Security#CA2145;-Microsoft.Security#CA2146;-Microsoft.Security#CA2147;-Microsoft.Security#CA2149;-Microsoft.Usage#CA1801;-Microsoft.Usage#CA1806;-Microsoft.Usage#CA1816;-Microsoft.Usage#CA2200;-Microsoft.Usage#CA2201;-Microsoft.Usage#CA2205;-Microsoft.Usage#CA2207;-Microsoft.Usage#CA2208;-Microsoft.Usage#CA2211;-Microsoft.Usage#CA2212;-Microsoft.Usage#CA2213;-Microsoft.Usage#CA2214;-Microsoft.Usage#CA2216;-Microsoft.Usage#CA2217;-Microsoft.Usage#CA2218;-Microsoft.Usage#CA2219;-Microsoft.Usage#CA2220;-Microsoft.Usage#CA2221;-Microsoft.Usage#CA2222;-Microsoft.Usage#CA2223;-Microsoft.Usage#CA2224;-Microsoft.Usage#CA2225;-Microsoft.Usage#CA2226;-Microsoft.Usage#CA2227;-Microsoft.Usage#CA2228;-Microsoft.Usage#CA2229;-Microsoft.Usage#CA2230;-Microsoft.Usage#CA2231;-Microsoft.Usage#CA2232;-Microsoft.Usage#CA2233;-Microsoft.Usage#CA2234;-Microsoft.Usage#CA2235;-Microsoft.Usage#CA2236;-Microsoft.Usage#CA2237;-Microsoft.Usage#CA2238;-Microsoft.Usage#CA2239;-Microsoft.Usage#CA2240;-Microsoft.Usage#CA2242;-Microsoft.Usage#CA2243</CodeAnalysisRules>
+    <SourceAnalysisOverrideSettingsFile>D:\картотека\DBFprog1\DBFprog1\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Crypt">
+      <HintPath>.\Crypt.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip">
+      <HintPath>..\packages\DotNetZip.1.10.1\lib\net20\DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="logging">
+      <HintPath>..\..\logging\logging\bin\Release\logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorize\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorize\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorize\PassManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorize\PassManager.Designer.cs">
+      <DependentUpon>PassManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trakt.cs" />
+    <Compile Include="IniFiles.cs" />
+    <Compile Include="InputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputForm.Designer.cs">
+      <DependentUpon>InputForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nodes.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultsForm.Designer.cs">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrassaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrassaForm.Designer.cs">
+      <DependentUpon>TrassaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkDBF.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorize\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorize\PassManager.resx">
+      <DependentUpon>PassManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputForm.resx">
+      <DependentUpon>InputForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultsForm.resx">
+      <DependentUpon>ResultsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrassaForm.resx">
+      <DependentUpon>TrassaForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="CodeAnalysisRules.ruleset" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\JetBrains.Platform.Core.Shell.105.0.20160504.101147\build\JetBrains.Platform.Core.Shell.Targets" Condition="Exists('..\packages\JetBrains.Platform.Core.Shell.105.0.20160504.101147\build\JetBrains.Platform.Core.Shell.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Core.Text.105.0.20160504.101446\build\JetBrains.Platform.Core.Text.Targets" Condition="Exists('..\packages\JetBrains.Platform.Core.Text.105.0.20160504.101446\build\JetBrains.Platform.Core.Text.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Core.Ide.105.0.20160504.101446\build\JetBrains.Platform.Core.Ide.Targets" Condition="Exists('..\packages\JetBrains.Platform.Core.Ide.105.0.20160504.101446\build\JetBrains.Platform.Core.Ide.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Symbols.105.0.20160504.101446\build\JetBrains.Platform.Symbols.Targets" Condition="Exists('..\packages\JetBrains.Platform.Symbols.105.0.20160504.101446\build\JetBrains.Platform.Symbols.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Interop.dotMemoryUnit.Interop.105.0.20160504.101446\build\JetBrains.Platform.Interop.dotMemoryUnit.Interop.Targets" Condition="Exists('..\packages\JetBrains.Platform.Interop.dotMemoryUnit.Interop.105.0.20160504.101446\build\JetBrains.Platform.Interop.dotMemoryUnit.Interop.Targets')" />
+  <Import Project="..\packages\Antlr2.Tools.2.7.6.4\build\Antlr2.Tools.targets" Condition="Exists('..\packages\Antlr2.Tools.2.7.6.4\build\Antlr2.Tools.targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.Tasks.105.0.20160504.101747\build\JetBrains.Psi.Features.Tasks.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.Tasks.105.0.20160504.101747\build\JetBrains.Psi.Features.Tasks.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.Core.105.0.20160504.101747\build\JetBrains.Psi.Features.Core.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.Core.105.0.20160504.101747\build\JetBrains.Psi.Features.Core.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.UnitTesting.105.0.20160504.101747\build\JetBrains.Psi.Features.UnitTesting.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.UnitTesting.105.0.20160504.101747\build\JetBrains.Psi.Features.UnitTesting.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.src.105.0.20160504.101747\build\JetBrains.Psi.Features.src.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.src.105.0.20160504.101747\build\JetBrains.Psi.Features.src.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.VisualStudio.105.0.20160504.101446\build\JetBrains.Platform.VisualStudio.Targets" Condition="Exists('..\packages\JetBrains.Platform.VisualStudio.105.0.20160504.101446\build\JetBrains.Platform.VisualStudio.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.VisualStudio.105.0.20160504.101747\build\JetBrains.Psi.Features.VisualStudio.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.VisualStudio.105.0.20160504.101747\build\JetBrains.Psi.Features.VisualStudio.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.SolutionBuilder.105.0.20160504.101747\build\JetBrains.Psi.Features.SolutionBuilder.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.SolutionBuilder.105.0.20160504.101747\build\JetBrains.Psi.Features.SolutionBuilder.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Installer.105.0.20160504.101446\build\JetBrains.Platform.Installer.Targets" Condition="Exists('..\packages\JetBrains.Platform.Installer.105.0.20160504.101446\build\JetBrains.Platform.Installer.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.Cpp.Src.105.0.20160504.102927\build\JetBrains.Psi.Features.Cpp.Src.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.Cpp.Src.105.0.20160504.102927\build\JetBrains.Psi.Features.Cpp.Src.Targets')" />
+  <Import Project="..\packages\JetBrains.Platform.Tests.Framework.105.0.20160504.101446\build\JetBrains.Platform.Tests.Framework.Targets" Condition="Exists('..\packages\JetBrains.Platform.Tests.Framework.105.0.20160504.101446\build\JetBrains.Platform.Tests.Framework.Targets')" />
+  <Import Project="..\packages\JetBrains.Psi.Features.test.Framework.105.0.20160504.101747\build\JetBrains.Psi.Features.test.Framework.Targets" Condition="Exists('..\packages\JetBrains.Psi.Features.test.Framework.105.0.20160504.101747\build\JetBrains.Psi.Features.test.Framework.Targets')" />
+  <Import Project="..\packages\JetBrains.Build.Platform.Tasks.ThemedIconsPacker.2.0.20151217.1\build\JetBrains.Build.Platform.Tasks.ThemedIconsPacker.Targets" Condition="Exists('..\packages\JetBrains.Build.Platform.Tasks.ThemedIconsPacker.2.0.20151217.1\build\JetBrains.Build.Platform.Tasks.ThemedIconsPacker.Targets')" />
+  <Import Project="..\packages\JetBrains.ReSharper.SDK.Internal.105.0.20160504.105616\build\JetBrains.ReSharper.SDK.Internal.Targets" Condition="Exists('..\packages\JetBrains.ReSharper.SDK.Internal.105.0.20160504.105616\build\JetBrains.ReSharper.SDK.Internal.Targets')" />
+</Project>

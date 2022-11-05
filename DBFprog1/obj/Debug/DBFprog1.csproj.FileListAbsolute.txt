@@ -1,0 +1,237 @@
+D:\temp\DBFprog1\DBFprog1\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+D:\temp\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.1.tlog
+D:\temp\DBFprog1\DBFprog1\obj\Debug\GenerateResource.write.1.tlog
+D:\temp\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+D:\temp\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+D:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+D:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+F:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe.config
+F:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+F:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+F:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+F:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+F:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe.config
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+C:\Users\All Users\TEMP\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+F:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+F:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+G:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe.config
+G:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+G:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+G:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+G:\KartotekaDBF\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+G:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+G:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+G:\KartotekaDBF\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.exe
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.pdb
+e:\programming\DBFprog1\DBFprog1\bin\Debug\DBFprog1.exe
+e:\programming\DBFprog1\DBFprog1\bin\Debug\DBFprog1.pdb
+e:\programming\DBFprog1\DBFprog1\bin\Debug\logging.dll
+e:\programming\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+e:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+e:\programming\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+d:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+d:\temp\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+d:\temp\DBFprog1\DBFprog1\bin\Debug\Microsoft.Web.XmlTransform.dll
+d:\temp\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.dll
+d:\temp\DBFprog1\DBFprog1\bin\Debug\NuGet.Core.dll
+d:\temp\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+d:\temp\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.xml
+D:\картотека\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+E:\programming\DBFprog1\DBFprog1\bin\Debug\Microsoft.Web.XmlTransform.dll
+E:\programming\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.dll
+E:\programming\DBFprog1\DBFprog1\bin\Debug\NuGet.Core.dll
+E:\programming\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.xml
+E:\programming\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\Microsoft.Web.XmlTransform.dll
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.dll
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\NuGet.Core.dll
+d:\Проекты\DBFprog1\DBFprog1\bin\Debug\Newtonsoft.Json.xml
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+d:\Проекты\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+d:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+d:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+d:\temp\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+D:\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+D:\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+D:\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+D:\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+I:\soft\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+I:\soft\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+I:\soft\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+i:\soft\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+i:\soft\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+i:\soft\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+i:\soft\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+D:\картотека\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\ResolveAssemblyReference.cache
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.1.tlog
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.write.1.tlog
+E:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\ResolveAssemblyReference.cache
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.1.tlog
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.write.1.tlog
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.4.tlog
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+F:\LAZ\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\ResolveAssemblyReference.cache
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.1.tlog
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.4.tlog
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\GenerateResource.write.1.tlog
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+Z:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+W:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+W:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+W:\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csprojResolveAssemblyReference.cache
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.Cache
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+C:\Program Files\SharpDevelop\Projects\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+\\173.16.1.2\рабочая\Личные папки\Юра\programm\картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.ResultsForm.resources
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+E:\kartoteka\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\ResolveAssemblyReference.cache
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.ResultsForm.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.1.tlog
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\GenerateResource.read.4.tlog
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\GenerateResource.write.1.tlog
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+E:\kartoteka\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe.config
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.exe
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\Kartoteka2016.pdb
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\Crypt.dll
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.dll
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\DotNetZip.xml
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\bin\Debug\logging.pdb
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.AssemblyReference.cache
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.About.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.Login.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Authorize.PassManager.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.InputForm.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.MainForm.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.Result.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.ResultsForm.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.TrassaForm.resources
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.GenerateResource.cache
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.CoreCompileInputs.cache
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\DBFprog1.csproj.CopyComplete
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.exe
+E:\Study\programming\Картотека\DBFprog1\DBFprog1\obj\Debug\Kartoteka2016.pdb
